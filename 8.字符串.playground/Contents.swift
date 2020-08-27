@@ -47,3 +47,5 @@ let len2 = str4.count
 print("str4长度==",len2)
 let len3 = (str4 as NSString).length
 print("len2===",len3)
+
+///
